@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TargetConfig Name="Notepad.exe" LastUsed="2026-03-20T10:32:53.8424362Z">
+  <EngineConfig />
+  <EngineOptions>
+    <Property name="DebugChildProcesses" value="false" />
+    <Property name="Noninvasive" value="false" />
+    <Property name="Elevate" value="false" />
+    <Property name="Restartable" value="false" />
+  </EngineOptions>
+  <TargetOptions>
+    <Option name="AttachProcess">
+      <Property name="Elevate" value="false" />
+      <Property name="PID" value="14976" />
+      <Property name="ProcessName" value="Notepad.exe" />
+    </Option>
+  </TargetOptions>
+</TargetConfig>
